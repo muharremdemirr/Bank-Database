@@ -1,0 +1,55 @@
+c:\users\afwadmin\documents\visual studio 2015\Projects\BankTuto\BankTuto\bin\Debug\BankTuto.exe.config
+c:\users\afwadmin\documents\visual studio 2015\Projects\BankTuto\BankTuto\bin\Debug\BankTuto.exe
+c:\users\afwadmin\documents\visual studio 2015\Projects\BankTuto\BankTuto\bin\Debug\BankTuto.pdb
+c:\users\afwadmin\documents\visual studio 2015\Projects\BankTuto\BankTuto\bin\Debug\Bunifu_UI_v1.52.dll
+c:\users\afwadmin\documents\visual studio 2015\Projects\BankTuto\BankTuto\bin\Debug\Guna.UI2.dll
+c:\users\afwadmin\documents\visual studio 2015\Projects\BankTuto\BankTuto\obj\Debug\BankTuto.csprojResolveAssemblyReference.cache
+c:\users\afwadmin\documents\visual studio 2015\Projects\BankTuto\BankTuto\obj\Debug\BankTuto.MainMenu.resources
+c:\users\afwadmin\documents\visual studio 2015\Projects\BankTuto\BankTuto\obj\Debug\BankTuto.Splash.resources
+c:\users\afwadmin\documents\visual studio 2015\Projects\BankTuto\BankTuto\obj\Debug\BankTuto.Login.resources
+c:\users\afwadmin\documents\visual studio 2015\Projects\BankTuto\BankTuto\obj\Debug\BankTuto.Properties.Resources.resources
+c:\users\afwadmin\documents\visual studio 2015\Projects\BankTuto\BankTuto\obj\Debug\BankTuto.csproj.GenerateResource.Cache
+c:\users\afwadmin\documents\visual studio 2015\Projects\BankTuto\BankTuto\obj\Debug\BankTuto.exe
+c:\users\afwadmin\documents\visual studio 2015\Projects\BankTuto\BankTuto\obj\Debug\BankTuto.pdb
+c:\users\afwadmin\documents\visual studio 2015\Projects\BankTuto\BankTuto\obj\Debug\BankTuto.AddAccounts.resources
+c:\users\afwadmin\documents\visual studio 2015\Projects\BankTuto\BankTuto\obj\Debug\BankTuto.Settings.resources
+c:\users\afwadmin\documents\visual studio 2015\Projects\BankTuto\BankTuto\obj\Debug\BankTuto.Transactions.resources
+C:\Users\afwadmin\documents\visual studio 2015\Projects\BankTuto\BankTuto\obj\Debug\BankTuto.Agents.resources
+C:\Users\MUHARREM\Desktop\BankTuto\BankTuto\bin\Debug\BankDb.mdf
+C:\Users\MUHARREM\Desktop\BankTuto\BankTuto\bin\Debug\BankDb_log.ldf
+C:\Users\MUHARREM\Desktop\BankTuto\BankTuto\bin\Debug\BankTuto.exe.config
+C:\Users\MUHARREM\Desktop\BankTuto\BankTuto\bin\Debug\BankTuto.exe
+C:\Users\MUHARREM\Desktop\BankTuto\BankTuto\bin\Debug\BankTuto.pdb
+C:\Users\MUHARREM\Desktop\BankTuto\BankTuto\obj\Debug\BankTuto.AgentNew.resources
+C:\Users\MUHARREM\Desktop\BankTuto\BankTuto\obj\Debug\BankTuto.AccountNew.resources
+C:\Users\MUHARREM\Desktop\BankTuto\BankTuto\obj\Debug\BankTuto.MainMenu.resources
+C:\Users\MUHARREM\Desktop\BankTuto\BankTuto\obj\Debug\BankTuto.Settings.resources
+C:\Users\MUHARREM\Desktop\BankTuto\BankTuto\obj\Debug\BankTuto.Login.resources
+C:\Users\MUHARREM\Desktop\BankTuto\BankTuto\obj\Debug\BankTuto.Properties.Resources.resources
+C:\Users\MUHARREM\Desktop\BankTuto\BankTuto\obj\Debug\BankTuto.Transactions.resources
+C:\Users\MUHARREM\Desktop\BankTuto\BankTuto\obj\Debug\BankTuto.csproj.GenerateResource.cache
+C:\Users\MUHARREM\Desktop\BankTuto\BankTuto\obj\Debug\BankTuto.csproj.CoreCompileInputs.cache
+C:\Users\MUHARREM\Desktop\BankTuto\BankTuto\obj\Debug\BankTuto.csproj.CopyComplete
+C:\Users\MUHARREM\Desktop\BankTuto\BankTuto\obj\Debug\BankTuto.exe
+C:\Users\MUHARREM\Desktop\BankTuto\BankTuto\obj\Debug\BankTuto.pdb
+C:\Users\MUHARREM\Desktop\BankTuto\BankTuto\obj\Debug\BankTuto.csproj.AssemblyReference.cache
+C:\Users\MUHARREM\Desktop\BankTuto\BankTuto\obj\Debug\BankTuto.TransferHistory.resources
+C:\Users\MUHARREM\Desktop\Bankin Project\BankTuto\bin\Debug\BankDb.mdf
+C:\Users\MUHARREM\Desktop\Bankin Project\BankTuto\bin\Debug\BankDb_log.ldf
+C:\Users\MUHARREM\Desktop\Bankin Project\BankTuto\bin\Debug\BankTuto.exe.config
+C:\Users\MUHARREM\Desktop\Bankin Project\BankTuto\bin\Debug\BankTuto.exe
+C:\Users\MUHARREM\Desktop\Bankin Project\BankTuto\bin\Debug\BankTuto.pdb
+C:\Users\MUHARREM\Desktop\Bankin Project\BankTuto\obj\Debug\BankTuto.csproj.AssemblyReference.cache
+C:\Users\MUHARREM\Desktop\Bankin Project\BankTuto\obj\Debug\BankTuto.AgentNew.resources
+C:\Users\MUHARREM\Desktop\Bankin Project\BankTuto\obj\Debug\BankTuto.AccountNew.resources
+C:\Users\MUHARREM\Desktop\Bankin Project\BankTuto\obj\Debug\BankTuto.TransferHistory.resources
+C:\Users\MUHARREM\Desktop\Bankin Project\BankTuto\obj\Debug\BankTuto.MainMenu.resources
+C:\Users\MUHARREM\Desktop\Bankin Project\BankTuto\obj\Debug\BankTuto.Settings.resources
+C:\Users\MUHARREM\Desktop\Bankin Project\BankTuto\obj\Debug\BankTuto.Login.resources
+C:\Users\MUHARREM\Desktop\Bankin Project\BankTuto\obj\Debug\BankTuto.Properties.Resources.resources
+C:\Users\MUHARREM\Desktop\Bankin Project\BankTuto\obj\Debug\BankTuto.Transactions.resources
+C:\Users\MUHARREM\Desktop\Bankin Project\BankTuto\obj\Debug\BankTuto.csproj.GenerateResource.cache
+C:\Users\MUHARREM\Desktop\Bankin Project\BankTuto\obj\Debug\BankTuto.csproj.CoreCompileInputs.cache
+C:\Users\MUHARREM\Desktop\Bankin Project\BankTuto\obj\Debug\BankTuto.csproj.CopyComplete
+C:\Users\MUHARREM\Desktop\Bankin Project\BankTuto\obj\Debug\BankTuto.exe
+C:\Users\MUHARREM\Desktop\Bankin Project\BankTuto\obj\Debug\BankTuto.pdb
